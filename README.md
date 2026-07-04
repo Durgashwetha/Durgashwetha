@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Durgashwetha
 
-<!--
-**Durgashwetha/Durgashwetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a final-year Bachelor of Engineering student in Computer Science Engineering (Data Science). I enjoy learning new technologies, building practical projects, and improving my problem-solving skills through continuous learning.
 
-Here are some ideas to get you started:
+## Currently
+Building real-world projects
+Learning new technologies
+Improving problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python, C++, JavaScript, HTML, CSS, React, Node.js, Express.js, Flask, MySQL, MongoDB, Git, GitHub, Visual Studio Code, Jupyter Notebook, Google Colab, Power BI, Tableau, NumPy, Pandas
+
+## Reach Me
+Email: [durgashwetha7@gmail.com](mailto:durgashwetha7@gmail.com)
+LinkedIn: linkedin.com/in/durgashwetha
