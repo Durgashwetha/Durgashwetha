@@ -9,7 +9,7 @@ Learning new technologies
 Improving problem-solving skills
 
 ## Tools
-Python, C++, JavaScript, HTML, CSS, MySQL, MongoDB, Git, GitHub, Visual Studio Code, Jupyter Notebook, Google Colab, Power BI, Tableau, NumPy, Pandas
+Python, C++, JavaScript, HTML, CSS, MySQL, Git, GitHub, Visual Studio Code, Jupyter Notebook, Google Colab, Power BI, Tableau, NumPy, Pandas
 
 ## Reach Me
 Email: [durgashwetha7@gmail.com](mailto:durgashwetha7@gmail.com)
