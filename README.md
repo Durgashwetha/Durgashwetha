@@ -13,4 +13,5 @@ Python, C++, JavaScript, HTML, CSS, MySQL, Git, GitHub, Visual Studio Code, Jupy
 
 ## Reach Me
 Email: [durgashwetha7@gmail.com](mailto:durgashwetha7@gmail.com)
+
 LinkedIn: linkedin.com/in/durgashwetha
