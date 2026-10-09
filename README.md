@@ -28,7 +28,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,mongodb,rag,mysql,sqlite,git,github,vscode&perline=7" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,mongodb,mysql,sqlite,git,github,,antigravity IDE,apache spark,llm,vscode&perline=7" alt="Languages and tools"/>
 </p>
 
 ## 🚀 Featured Projects
