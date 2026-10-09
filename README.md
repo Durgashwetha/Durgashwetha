@@ -23,13 +23,12 @@
 - 💡 Interested in **AI/ML, data science, and full-stack development**.
 - 🌱 Exploring **Generative AI, RAG, and AI agents**.
 - 🏆 **1st place at department level** for the Metro Journey Tracker project.
-- 💼 Completed a **Data Science Internship at Intrainz Innovation Pvt. Ltd.**
 - 🧩 Practising data structures, algorithms, and problem-solving.
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,mongodb,mysql,sqlite,git,github,vscode&perline=7" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,mongodb,rag,mysql,sqlite,git,github,vscode&perline=7" alt="Languages and tools"/>
 </p>
 
 ## 🚀 Featured Projects
