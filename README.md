@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgashwetha M</h1>
-<h3 align="center">Computer Science & Data Science | AI/ML | Software Development</h3>
+<h3 align="center">Computer Science Enggineering - Data Science | AI/ML | Software Development</h3>
 
 <p align="center">
   Building practical solutions with data, machine learning, and software.
@@ -22,9 +22,6 @@
 - 🎓 Pursuing **B.E. in Computer Science Engineering (Data Science)** at CMR Institute of Technology, Bengaluru.
 - 💡 Interested in **AI/ML, data science, and full-stack development**.
 - 🌱 Exploring **Generative AI, Retrieval-Augmented Generation (RAG), and AI agents**.
-- 🧪 Experimenting with **Google Antigravity, Hugging Face, and Lovable**.
-- 🏆 **1st place at department level** for the Metro Journey Tracker project.
-- 💼 Completed a **Data Science Internship at Intrainz Innovation Pvt. Ltd.**
 - 🧩 Practising data structures, algorithms, and problem-solving.
 
 ## 🛠️ Languages and Tools
