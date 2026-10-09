@@ -21,14 +21,25 @@
 
 - 🎓 Pursuing **B.E. in Computer Science Engineering (Data Science)** at CMR Institute of Technology, Bengaluru.
 - 💡 Interested in **AI/ML, data science, and full-stack development**.
-- 🌱 Exploring **Generative AI, RAG, and AI agents**.
+- 🌱 Exploring **Generative AI, Retrieval-Augmented Generation (RAG), and AI agents**.
+- 🧪 Experimenting with **Google Antigravity, Hugging Face, and Lovable**.
 - 🏆 **1st place at department level** for the Metro Journey Tracker project.
+- 💼 Completed a **Data Science Internship at Intrainz Innovation Pvt. Ltd.**
 - 🧩 Practising data structures, algorithms, and problem-solving.
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,mongodb,mysql,sqlite,git,github,,antigravity IDE,apache spark,llm,vscode&perline=7" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,flask,mongodb,mysql,sqlite,git,github,vscode&perline=7" alt="Languages and tools"/>
+</p>
+
+### 🤖 AI & Builder Tools
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/lovable/FF4F8B" width="40" height="40" alt="Lovable"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-6C5CE7?style=flat" height="28" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20IDE-4285F4?style=flat" height="28" alt="Google Antigravity"/>
 </p>
 
 ## 🚀 Featured Projects
